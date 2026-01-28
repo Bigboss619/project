@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "slug": "tech-hub",
+    "name": "Tech Hub",
+    "logo": "/assets/tech-logo.jpg",
+    "description": "Latest gadgets and electronics",
+    "heroImage": "/assets/tech-hero.jpg",
+    "products": []
+  },
+  {
+    "id": 2,
+    "slug": "fashion-store",
+    "name": "Fashion Store",
+    "logo": "/assets/fashion-logo.jpg",
+    "description": "Trendy apparel and accessories",
+    "heroImage": "/assets/fashion-background.jpg",
+    "products": []
+  },
+  {
+    "id": 3,
+    "slug": "home-decor",
+    "name": "Home Decor",
+    "logo": "/assets/home-decor-logo.jpg",
+    "description": "Stylish furniture and decor items",
+    "heroImage": "/assets/home-decor-hero.jpg",
+    "products": []
+  },
+  {
+    "id": 4,
+    "slug": "sports-world",
+    "name": "Sports World",
+    "logo": "/assets/sports-logo.jpg",
+    "description": "All things sports and outdoor",
+    "heroImage": "/assets/sports-hero.jpg",
+    "products": []
+  },
+  {
+    "id": 5,
+    "slug": "beauty-lounge",
+    "name": "Beauty Lounge",
+    "logo": "/assets/beauty-logo.jpg",
+    "description": "Cosmetics and skincare products",
+    "heroImage": "/assets/beauty-hero.jpg",
+    "products": []
+  }
+]

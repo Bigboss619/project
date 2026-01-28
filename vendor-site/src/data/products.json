@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "vendorSlug": "tech-hub",
+    "name": "Wireless Mouse",
+    "price": 25000,
+    "createdAt": "2025-01-10",
+    "image": "/assets/mouse.jpg"
+  },
+  {
+    "id": 2,
+    "vendorSlug": "tech-hub",
+    "name": "Mechanical Keyboard",
+    "price": 75000,
+    "createdAt": "2025-01-12",
+    "image": "/assets/keyboard.jpg"
+  },
+  {
+    "id": 3,
+    "vendorSlug": "tech-hub",
+    "name": "HD Monitor",
+    "price": 120000,
+    "createdAt": "2025-01-15",
+    "image": "/assets/monitor.jpg"
+  },
+  {
+    "id": 4,
+    "vendorSlug": "fashion-store",
+    "name": "Leather Jacket",
+    "price": 120000,
+    "createdAt": "2025-01-05",
+    "image": "/assets/jacket.jpg"
+  },
+  {
+    "id": 5,
+    "vendorSlug": "fashion-store",
+    "name": "Denim Jeans",
+    "price": 45000,
+    "createdAt": "2025-01-08",
+    "image": "/assets/jeans.jpg"
+  },
+  {
+    "id": 6,
+    "vendorSlug": "fashion-store",
+    "name": "Sneakers",
+    "price": 60000,
+    "createdAt": "2025-01-10",
+    "image": "/assets/sneakers.jpg"
+  },
+  {
+    "id": 7,
+    "vendorSlug": "home-decor",
+    "name": "Wooden Coffee Table",
+    "price": 80000,
+    "createdAt": "2025-01-02",
+    "image": "/assets/coffee-table.jpg"
+  },
+  {
+    "id": 8,
+    "vendorSlug": "home-decor",
+    "name": "Decorative Lamp",
+    "price": 25000,
+    "createdAt": "2025-01-04",
+    "image": "/assets/lamp.jpg"
+  },
+  {
+    "id": 9,
+    "vendorSlug": "home-decor",
+    "name": "Wall Art Set",
+    "price": 40000,
+    "createdAt": "2025-01-06",
+    "image": "/assets/wall-art.jpg"
+  },
+  {
+    "id": 10,
+    "vendorSlug": "sports-world",
+    "name": "Football",
+    "price": 15000,
+    "createdAt": "2025-01-03",
+    "image": "/assets/football.jpg"
+  },
+  {
+    "id": 11,
+    "vendorSlug": "sports-world",
+    "name": "Tennis Racket",
+    "price": 50000,
+    "createdAt": "2025-01-07",
+    "image": "/assets/racket.jpg"
+  },
+  {
+    "id": 12,
+    "vendorSlug": "sports-world",
+    "name": "Running Shoes",
+    "price": 70000,
+    "createdAt": "2025-01-09",
+    "image": "/assets/running-shoes.jpg"
+  },
+  {
+    "id": 13,
+    "vendorSlug": "beauty-lounge",
+    "name": "Facial Cream",
+    "price": 15000,
+    "createdAt": "2025-01-01",
+    "image": "/assets/cream.jpg"
+  },
+  {
+    "id": 14,
+    "vendorSlug": "beauty-lounge",
+    "name": "Perfume",
+    "price": 35000,
+    "createdAt": "2025-01-03",
+    "image": "/assets/perfume.jpg"
+  },
+  {
+    "id": 15,
+    "vendorSlug": "beauty-lounge",
+    "name": "Makeup Kit",
+    "price": 50000,
+    "createdAt": "2025-01-05",
+    "image": "/assets/makeup-kit.jpg"
+  },
+  {
+    "id": 15,
+    "vendorSlug": "tech-hub",
+    "name": "HD Monitor",
+    "price": 120000,
+    "createdAt": "2025-01-15",
+    "image": "/assets/monitor.jpg"
+  }
+]
