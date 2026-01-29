@@ -3,8 +3,8 @@ Padisquare – Multi-Vendor Mini Sites (Frontend Task)
 A simplified multi-vendor storefront built with Next.js App Router.
 Vendors have their own mini-sites where users can browse products with search, sorting, pagination, and dark mode support.
 
-🔗 Live Demo: (add your Vercel link here)
-📦 Repository: (this repo)
+🔗 Live Demo: https://project-vendor-site.vercel.app/
+📦 Repository: https://github.com/Bigboss619/project.git
 
 ✨ Features
 Landing Page
