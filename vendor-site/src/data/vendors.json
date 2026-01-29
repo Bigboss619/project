@@ -30,9 +30,9 @@
     "id": 4,
     "slug": "sports-world",
     "name": "Sports World",
-    "logo": "/assets/sports-logo.jpg",
+    "logo": "/assets/sport-logo.jpg",
     "description": "All things sports and outdoor",
-    "heroImage": "/assets/sports-hero.jpg",
+    "heroImage": "/assets/sport-hero.jpg",
     "products": []
   },
   {
@@ -42,6 +42,15 @@
     "logo": "/assets/beauty-logo.jpg",
     "description": "Cosmetics and skincare products",
     "heroImage": "/assets/beauty-hero.jpg",
+    "products": []
+  },
+  {
+    "id": 6,
+    "slug": "gym-lounge",
+    "name": "Gym Lounge",
+    "logo": "/assets/gym logo.jpg",
+    "description": "Fitness equipment and supplements",
+    "heroImage": "/assets/gym background.jpg",
     "products": []
   }
 ]

@@ -6,6 +6,10 @@ export async function getVendors() {
 }
 
 export async function getVendorData(vendorSlug: string) {
+
+    // Simulate a delay for demonstration purposes
+    await new Promise((resolve) => setTimeout(resolve, 6000));
+    
     const vendor = vendors.find(v => v.slug === vendorSlug);
     if(!vendor) return null;
 

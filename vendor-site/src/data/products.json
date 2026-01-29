@@ -5,7 +5,7 @@
     "name": "Wireless Mouse",
     "price": 25000,
     "createdAt": "2025-01-10",
-    "image": "/assets/mouse.jpg"
+    "image": "/assets/wireless mouse.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "name": "Mechanical Keyboard",
     "price": 75000,
     "createdAt": "2025-01-12",
-    "image": "/assets/keyboard.jpg"
+    "image": "/assets/mechanical keyboard.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "name": "HD Monitor",
     "price": 120000,
     "createdAt": "2025-01-15",
-    "image": "/assets/monitor.jpg"
+    "image": "/assets/HD Monitor.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "name": "Leather Jacket",
     "price": 120000,
     "createdAt": "2025-01-05",
-    "image": "/assets/jacket.jpg"
+    "image": "/assets/leather jacket.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "name": "Denim Jeans",
     "price": 45000,
     "createdAt": "2025-01-08",
-    "image": "/assets/jeans.jpg"
+    "image": "/assets/Denim jeans.jpg"
   },
   {
     "id": 6,
@@ -53,7 +53,7 @@
     "name": "Wooden Coffee Table",
     "price": 80000,
     "createdAt": "2025-01-02",
-    "image": "/assets/coffee-table.jpg"
+    "image": "/assets/wooden coffee table.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "name": "Decorative Lamp",
     "price": 25000,
     "createdAt": "2025-01-04",
-    "image": "/assets/lamp.jpg"
+    "image": "/assets/decorative lamps.jpg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "name": "Wall Art Set",
     "price": 40000,
     "createdAt": "2025-01-06",
-    "image": "/assets/wall-art.jpg"
+    "image": "/assets/wall art set.jpg"
   },
   {
     "id": 10,
@@ -85,7 +85,7 @@
     "name": "Tennis Racket",
     "price": 50000,
     "createdAt": "2025-01-07",
-    "image": "/assets/racket.jpg"
+    "image": "/assets/tennis racket.jpg"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "name": "Running Shoes",
     "price": 70000,
     "createdAt": "2025-01-09",
-    "image": "/assets/running-shoes.jpg"
+    "image": "/assets/running shoes.jpg"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "name": "Facial Cream",
     "price": 15000,
     "createdAt": "2025-01-01",
-    "image": "/assets/cream.jpg"
+    "image": "/assets/facial cream.jpg"
   },
   {
     "id": 14,
@@ -117,14 +117,14 @@
     "name": "Makeup Kit",
     "price": 50000,
     "createdAt": "2025-01-05",
-    "image": "/assets/makeup-kit.jpg"
+    "image": "/assets/makeup kits.jpg"
   },
   {
     "id": 15,
     "vendorSlug": "tech-hub",
-    "name": "HD Monitor",
+    "name": "Laptop",
     "price": 120000,
     "createdAt": "2025-01-15",
-    "image": "/assets/monitor.jpg"
+    "image": "/assets/laptop.jpg"
   }
 ]
